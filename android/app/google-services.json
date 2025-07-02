@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612900894169",
+    "project_id": "appcrew-f698d",
+    "storage_bucket": "appcrew-f698d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612900894169:android:a20969a56d2e4abafb55c8",
+        "android_client_info": {
+          "package_name": "com.app_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACgf-YgB0gI2lAbDdu0OFsIxUpF1lYHp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
